@@ -87,3 +87,28 @@ Full-stack developer from Assam, India with 9+ years of experience. I build scal
 | **Flikinews.com** | AI-automated news publishing pipeline | Node.js, LLMs, WordPress REST API |
 
 _🔒 Client and production code is kept private. Happy to walk through any project on request._
+
+### 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| **Freelance Full-Stack Developer** | Self-employed, Remote | 2025 to present |
+| **Web Developer & Digital Media Manager** | Pride East Entertainments Pvt. Ltd., Guwahati | 2022 to 2025 |
+| **Assistant Professor, BCA** | Dispur College, Guwahati | 2021 to 2022 |
+| **Assistant Professor** | Assam Brilliant Academy, Barpeta Road | 2019 to 2021 |
+| **Web App & WordPress Developer** | Kareng Technology and Web Infotech, Guwahati | 2016 to 2019 |
+
+### 🌐 Live sites I've built or managed
+
+[![ODR Nexus](https://img.shields.io/badge/ODR_Nexus-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://odrnexus.com)
+[![Nahor Travels](https://img.shields.io/badge/Nahor_Travels-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nahortravels.com)
+[![PicSize](https://img.shields.io/badge/PicSize-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://picsize.in)
+[![News Live TV](https://img.shields.io/badge/News_Live_TV-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://newslivetv.com)
+[![Northeast Live](https://img.shields.io/badge/Northeast_Live-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://northeastlivetv.com)
+[![Niyomiya Barta](https://img.shields.io/badge/Niyomiya_Barta-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://niyomiyabarta.com)
+[![Vandya International School](https://img.shields.io/badge/Vandya_School-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vandya.com)
+[![Vaanigreens Resort](https://img.shields.io/badge/Vaanigreens_Resort-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://vaanigreens.com)
+
+### 🐍 Contribution snake
+
+![Contribution snake](https://raw.githubusercontent.com/kalyandasofficial175-sudo/kalyandasofficial175-sudo/output/github-snake-dark.svg)
