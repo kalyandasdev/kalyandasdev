@@ -1,5 +1,7 @@
 # Hi, I'm Kalyan Ch Das 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&vCenter=true&width=620&lines=Full-Stack+Developer+%E2%9A%A1+9%2B+years+shipping+for+clients;Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+FastAPI;Building+SaaS%2C+OTT+platforms+%26+AI+pipelines;Assistant+Professor+turned+freelance+builder)
+
 Full-stack developer from Assam, India with 9+ years of experience. I build scalable web apps from backend to browser: SaaS products, admin dashboards, OTT and news platforms, and AI-automated pipelines. Formerly an Assistant Professor teaching programming and web development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kalyandas.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kalyandas.tech/)
@@ -59,6 +61,13 @@ Full-stack developer from Assam, India with 9+ years of experience. I build scal
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white)
+
+### 📊 GitHub stats
+
+![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyandasofficial175-sudo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&ring_color=D4AF37&rank_icon=github&custom_title=Kalyan%27s%20GitHub%20Stats)
+![GitHub streak](https://streak-stats.demolab.com?user=kalyandasofficial175-sudo&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStrNum=FFFFFF&sideNums=FFFFFF&currStrLabel=D4AF37&sideLabels=c9d1d9&dates=8b949e&stroke=30363d)
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=kalyandasofficial175-sudo&bg_color=0d1117&color=c9d1d9&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&custom_title=Contribution%20activity)
 
 ### 🚀 Selected work
 
