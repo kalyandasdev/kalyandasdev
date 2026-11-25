@@ -6,6 +6,7 @@ Full-stack developer from Assam, India with 9+ years of experience. I build scal
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kalyandas.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kalyandas.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyandasdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-kalyandasofficial175%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyandasofficial175@gmail.com)
 
 ### 🛠️ Tech I work with
 
